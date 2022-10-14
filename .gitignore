@@ -1,0 +1,6 @@
+# Deno bundle build:
+/dist
+
+# used for testing:
+/tmp
+
